@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:style_literal/sl.dart';
+import 'package:style_literal/style_literal.dart';
 
 void main() {
   runApp(MyApp());
