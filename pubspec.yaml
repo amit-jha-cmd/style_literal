@@ -1,7 +1,7 @@
 name: style_literal
 version: 1.0.0
 description:
-  A package that contains the style literals that we
+  A package that contains the style literals that
   we generally use while writing the UI
 homepage: https://github.com/devbihari/style_literal
 documentation: https://github.com/devbihari/style_literal#readme
