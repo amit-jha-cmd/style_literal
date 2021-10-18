@@ -1,0 +1,9 @@
+name: style_literal
+version: 1.0.0
+description:
+  A package that contains the style literals that we
+  we generally use while writing the UI
+homepage: https://github.com/devbihari/style_literal
+documentation: https://github.com/devbihari/style_literal#README.md
+environment:
+  sdk: '>=2.12.0 <3.0.0'
